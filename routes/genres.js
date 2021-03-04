@@ -1,17 +1,18 @@
 const express = require('express');
+const mongoose = require('mongoose');
+const auth = require('../middleswares/auth');
+
 const router = express.Router();
 
 const { Genre, validate } = require('../models/genre');
 
-// Get Courses
-router.get('/', async (req, res) => {
+router.get('/', async (_req, res) => {
   const genres = await Genre.find().sort('name');
   res.send(genres);
 });
 
-router.post('/', async (req, res) => {
+router.post('/', auth, async (req, res) => {
   const { error } = validate(req.body);
-
   if (error) return res.status(400).send(error.details[0].message);
 
   const genre = new Genre({
@@ -46,8 +47,12 @@ router.delete('/:id', async (req, res) => {
   }
 });
 
-router.get('/:id', async (req, res) => {
-  const genre = await findById(req.params.id);
+router.get(`/:id`, async (req, res) => {
+  if (!mongoose.Types.ObjectId.isValid(req.params.id))
+    return res.status(404).send('Invalid ID.');
+
+  const genre = await Genre.findById(req.params.id);
+
   if (!genre)
     return res
       .status(404)

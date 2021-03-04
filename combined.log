@@ -1,0 +1,193 @@
+{"level":"error","message":"Logger working Genres is not defined","stack":"ReferenceError: Genres is not defined\n    at /home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/routes/genres.js:8:18\n    at newFn (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/layer.js:95:5)\n    at /home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:317:13)\n    at /home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:275:10)\n    at logger (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/morgan/index.js:144:5)\n    at newFn (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/jacques/Documents/code/Vidly---Video-Rental-Backend-master/node_modules/express/lib/router/index.js:317:13)"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"level":"error"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`Fish`) is shorter than the minimum allowed length (5).","properties":{"message":"Path `name` (`Fish`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"Fish"},"kind":"minlength","path":"name","value":"Fish"}},"_message":"Genre validation failed","level":"error","message":"Genre validation failed: name: Path `name` (`Fish`) is shorter than the minimum allowed length (5)."}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`Imeh`) is shorter than the minimum allowed length (5).","properties":{"message":"Path `name` (`Imeh`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"Imeh"},"kind":"minlength","path":"name","value":"Imeh"}},"_message":"User validation failed","level":"error","message":"User validation failed: name: Path `name` (`Imeh`) is shorter than the minimum allowed length (5)."}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234"}},"_message":"Genre validation failed","level":"error","message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)."}
+{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","properties":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","type":"maxlength","maxlength":50,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"_message":"Genre validation failed","level":"error","message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50)."}
+{"message":"Connect to MongoDB","level":"info"}
+{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234"}},"_message":"Genre validation failed","level":"error","message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)."}
+{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","properties":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","type":"maxlength","maxlength":50,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"_message":"Genre validation failed","level":"error","message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50)."}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
+{"message":"Connect to MongoDB","level":"info"}
